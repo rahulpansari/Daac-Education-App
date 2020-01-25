@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624790369825",
+    "firebase_url": "https://daac-master.firebaseio.com",
+    "project_id": "daac-master",
+    "storage_bucket": "daac-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624790369825:android:4d6dbd53d3369693",
+        "android_client_info": {
+          "package_name": "in.daaconline.doomshell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624790369825-p5gsgsr4pu2fj4rp7ecoppl83g32190o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.daaconline.doomshell",
+            "certificate_hash": "aa50b1d1e0eef84fd4b2661df50bdc40b369452b"
+          }
+        },
+        {
+          "client_id": "624790369825-ks6atviigcr9i0amt0cb7lqnjutio872.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloO2mBDqc7Bn2z2pIYnDfI7Wg_NYRkgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624790369825-ks6atviigcr9i0amt0cb7lqnjutio872.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#ffff"
+    tools:context=".Youtube"
+
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<androidx.appcompat.widget.Toolbar
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+
+    app:theme="@style/ToolBarStyle"
+    android:background="@color/colorPrimary"
+    android:id="@+id/youtube_toolbar"
+    android:minHeight="?actionBarSize"
+    >
+
+</androidx.appcompat.widget.Toolbar>
+<ProgressBar
+    android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:layout_gravity="center_vertical|center_horizontal"
+    android:id="@+id/progress_ytube"
+    android:layout_marginTop="300dp"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/youtube_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_height="match_parent" />
+</LinearLayout>

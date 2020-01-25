@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00BFFF</color>
+    <color name="colorPrimaryDark">#00BFFF</color>
+    <color name="colorAccent">#DB1313</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="colorActiveButton">#2196F3</color>
+    <color name="colorInactiveButton">#7E8183</color>
+    <color name="grid1">#5b39c6</color>
+    <color name="grid2">#00ff00</color>
+    <color name="grid3">#080808</color>
+    <color name="grid4">#ba160c</color>
+    <color name="offwhite">#D3D3D3</color>
+    <color name="status_youtube">#000</color>
+    <color name="status_welcome">#ffff</color>
+    <color name="accounts">#9B59B6</color>
+    <color name="advance">#854442</color>
+    <color name="degree">#0095B6</color>
+    <color name="designing">#BE9B7B</color>
+    <color name="mobile">#005B96</color>
+    <color name="programming">#00008B</color>
+    <color name="security">#ff0040</color>
+</resources>
